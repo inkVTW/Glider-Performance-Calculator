@@ -4,7 +4,7 @@ Performance calculator for Project1.1
 
 GUI for Calc v1.2.5
 
-#Instructions
+# Instructions
 Download and run the GUI
 1. Download both files
 Download glider_gui.py and glider_performance.py from the file cards in this chat. You need both.
