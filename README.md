@@ -7,7 +7,7 @@ GUI for Calc v1.2.5
 # Instructions
 Download and run the GUI
 1. Download both files
-Download glider_gui.py and glider_performance.py from the file cards in this chat. You need both.
+Download Glider_Performance_GUI.py and Glider_Performance_Calc.py from the file cards in this chat. You need both.
 
 2. Put them in one folder
 Save both in the same folder, for example C:\Downloads\
